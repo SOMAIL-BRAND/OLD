@@ -403,7 +403,6 @@ def main():
 	print(" [4] Instagram followers\n")
 	print(" [5] Find number details (2022 database)\n")
 	print(" [6] Generate access token")
-	print('' [6] WhatsApp Contact 03185612237
         print '--------------------------------------------------------------'
 	print("")
 	os.system('xdg-open https://www.facebook.com/SOMAIL3232')
